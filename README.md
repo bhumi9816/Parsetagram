@@ -29,8 +29,8 @@ Here's a walkthrough of implemented user stories:
 
 We can see the user bhumi16 already exists.
 
-<img src='https://i.imgur.com/xhskT4G.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
-<img src='https://i.imgur.com/NL4E0j9.gif' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/nrRWZRA.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/NL4E0j9.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
 
 The number of users in our Parse Server are 13 now. Thus, successfully added the new user.
