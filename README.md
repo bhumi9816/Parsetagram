@@ -48,5 +48,5 @@ Allowing camera capture, add an image as our post and store in our Parse Server
 
 Cannot see the new post as it only upload 20 posts thus, the 21st post will be reflected in our feed
 
-<img src='https://i.imgur.com/enWyrEq.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ftGuV6z.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 <img src='https://i.imgur.com/55aSx5X.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
