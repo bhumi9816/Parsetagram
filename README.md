@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 We can see the user bhumi16 already exists.
 
-<img src='https://i.imgur.com/nrRWZRA.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/5F3YN6J.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 <img src='https://i.imgur.com/NL4E0j9.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
 
