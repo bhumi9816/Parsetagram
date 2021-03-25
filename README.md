@@ -39,20 +39,23 @@ Viewing multiple comments on several feed.
 
 
 Commenting on a picture.
+
 <img src='https://i.imgur.com/KlioKCJ.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+
 New comments are saved in Parse.
+
 <img src='https://i.imgur.com/tVRhMCW.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+
 Logging Out
+
 <img src='https://i.imgur.com/nrz190o.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+
 Running the app to be back at the login page since we logged out.
+
 <img src='https://i.imgur.com/fPG7xuK.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
-
-
-
-
 
 
 
