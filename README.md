@@ -25,19 +25,31 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/HLKQ7Pq.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+
 <img src='https://i.imgur.com/ovO5bjV.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+
+Running the app again without logging out, we are taken directly to the Feed Page.
 <img src='https://i.imgur.com/qzMRt7U.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+Viewing multiple comments on several feed.
 <img src='https://i.imgur.com/rlk1kBv.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
 <img src='https://i.imgur.com/2PSix4F.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+
+Commenting on a picture.
 <img src='https://i.imgur.com/KlioKCJ.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+New comments are saved in Parse.
+<img src='https://i.imgur.com/tVRhMCW.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+Logging Out
 <img src='https://i.imgur.com/nrz190o.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
+Running the app to be back at the login page since we logged out.
 <img src='https://i.imgur.com/fPG7xuK.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
 
 
 
