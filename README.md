@@ -1,3 +1,59 @@
+# Parstagram - Part II
+
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **3** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User stays logged in across restarts. (1pt)
+- [X] User can log out. (1pt)
+- [X] User can view comments on a post. (3pts)
+- [X] User can add a new comment. (5pts)
+
+The following **bonus** features are implemented:
+
+- [ ] User can add a profile picture. (2pts)
+- [ ] Profile pictures are shown for posts and comments. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+
+<img src='https://i.imgur.com/HLKQ7Pq.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ovO5bjV.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+Running the app again without logging out, we are taken directly to the Feed Page.
+
+<img src='https://i.imgur.com/qzMRt7U.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+Viewing multiple comments on several feed.
+
+<img src='https://i.imgur.com/rlk1kBv.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/2PSix4F.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+Commenting on a picture.
+
+<img src='https://i.imgur.com/KlioKCJ.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+New comments are saved in Parse.
+
+<img src='https://i.imgur.com/tVRhMCW.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+Logging Out
+
+<img src='https://i.imgur.com/nrz190o.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+Running the app to be back at the login page since we logged out.
+
+<img src='https://i.imgur.com/fPG7xuK.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+
+
+
+
 # Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
