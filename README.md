@@ -49,7 +49,8 @@ Logging Out
 
 Running the app to be back at the login page since we logged out.
 
-<img src='https://i.imgur.com/fPG7xuK.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/5FSmsa8.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://i.imgur.com/98IWp9T.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
 
 
